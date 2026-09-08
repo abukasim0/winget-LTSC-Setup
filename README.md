@@ -1,5 +1,9 @@
 # Winget LTSC Setup
 
+Project by: Abu Kasim
+GitHub: https://github.com/abukasim0
+Telegram: https://t.me/programs_edditing
+
 ## English Version | النسخة الإنجليزية
 
 A PowerShell automation script for setting up a Windows LTSC / Windows 10 / Windows 11 machine with commonly used productivity, system, and utility applications.
