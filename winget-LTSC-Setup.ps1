@@ -129,7 +129,7 @@ $EssentialApps = @(
     'OpenWhisperSystems.Signal',
     'Notepad++.Notepad++',
     'BleachBit.BleachBit',
-    'OnlyOffice.OnlyOffice',
+    'ONLYOFFICE.DesktopEditors',
     'Discord.Discord',
     'Microsoft.WindowsTerminal',
     'Python.Python.3.13'
