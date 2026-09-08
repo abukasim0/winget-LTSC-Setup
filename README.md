@@ -75,7 +75,7 @@ This script checks whether WinGet is available, bootstraps it if needed, reviews
 ## Usage
 
 ```powershell
-git clone https://github.com/jaddouaomar0-maker/winget-LTSC-Setup.git
+git clone https://github.com/abukasim0/winget-LTSC-Setup.git
 cd .\winget-LTSC-Setup
 powershell -ExecutionPolicy Bypass -File .\winget-LTSC-Setup.ps1
 ```
@@ -83,7 +83,7 @@ powershell -ExecutionPolicy Bypass -File .\winget-LTSC-Setup.ps1
 To skip prompts and automatically approve all installs/upgrades:
 
 ```powershell
-git clone https://github.com/jaddouaomar0-maker/winget-LTSC-Setup.git
+git clone https://github.com/abukasim0/winget-LTSC-Setup.git
 cd .\winget-LTSC-Setup
 powershell -ExecutionPolicy Bypass -File .\winget-LTSC-Setup.ps1 -AutoApprove
 ```
@@ -181,7 +181,7 @@ If you want to improve the package list, add detection logic, or improve the use
 ## طريقة الاستخدام
 
 ```powershell
-git clone https://github.com/jaddouaomar0-maker/winget-LTSC-Setup.git
+git clone https://github.com/abukasim0/winget-LTSC-Setup.git
 cd .\winget-LTSC-Setup
 powershell -ExecutionPolicy Bypass -File .\winget-LTSC-Setup.ps1
 ```
@@ -189,7 +189,7 @@ powershell -ExecutionPolicy Bypass -File .\winget-LTSC-Setup.ps1
 للتثبيت أو التحديث دون ظهور تأكيدات، استخدم:
 
 ```powershell
-git clone https://github.com/jaddouaomar0-maker/winget-LTSC-Setup.git
+git clone https://github.com/abukasim0/winget-LTSC-Setup.git
 cd .\winget-LTSC-Setup
 powershell -ExecutionPolicy Bypass -File .\winget-LTSC-Setup.ps1 -AutoApprove
 ```
