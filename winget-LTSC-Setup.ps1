@@ -11,6 +11,10 @@ param(
     [switch]$AutoApprove
 )
 
+# Project by: Abu Kasim
+# GitHub: https://github.com/abukasim0
+# Telegram: https://t.me/programs_edditing
+
 $ErrorActionPreference = 'Stop'
 $ProgressPreference = 'SilentlyContinue'
 [Console]::OutputEncoding = [System.Text.Encoding]::UTF8
@@ -26,6 +30,9 @@ if (-not ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdenti
 Clear-Host
 Write-Host "=====================================================" -ForegroundColor Cyan
 Write-Host "      Windows Post-Installation Automated Setup      " -ForegroundColor Cyan
+Write-Host "        Project by: Abu Kasim                       " -ForegroundColor Magenta
+Write-Host "        GitHub: https://github.com/abukasim0          " -ForegroundColor Magenta
+Write-Host "        Telegram: https://t.me/programs_edditing     " -ForegroundColor Magenta
 Write-Host "=====================================================" -ForegroundColor Cyan
 
 Write-Host "`n[+] Verifying Package Manager engine..." -ForegroundColor Cyan
